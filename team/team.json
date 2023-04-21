@@ -1,0 +1,531 @@
+{
+  "forth": [
+    {
+      "profile": "kalpit.png",
+      "name": "Kalpit Arya",
+      "designation": "Chief Executive Member",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/kalpit-arya/?originalSubdomain=in"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/desi-yoddha/"
+        }
+      ]
+    },
+    {
+      "profile": "ayush.jpg",
+      "name": "Ayush Kumar",
+      "designation": "Core Team Committee Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/ayush-kumar-10bb0b197/?originalSubdomain=in"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/2580ayush2580"
+        }
+      ]
+    },
+    {
+      "profile": "shruti.png",
+      "name": "Shruti Agarwal",
+      "designation": "General Secretary",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/shruti-ag/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Shruti3004"
+        }
+      ]
+    },
+    {
+      "profile": "anurag.png",
+      "name": "Anurag Srivastava",
+      "designation": "Finance Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/singingapple/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/SingingApple"
+        }
+      ]
+    },
+    {
+      "profile": "ojus.jpg",
+      "name": "Ojuswi Rastogi",
+      "designation": "Technical Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": " https://www.linkedin.com/in/ojuswizard/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/OjusWiZard"
+        },
+        {
+          "website": "twitter",
+          "url": "https://twitter.com/ojuswirastogi"
+        }
+      ]
+    },
+    {
+      "profile": "vaibhav.jpg",
+      "name": "Vaibhav Shukla",
+      "designation": "Creative Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/vaibhav-shukla-7a2a0b196"
+        },
+
+        {
+          "website": "behance",
+          "url": "https://www.behance.net/vaibhavshukla2"
+        }
+      ]
+    },
+    {
+      "profile": "aditee.jpg",
+      "name": "Aditee Singh",
+      "designation": "Event Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/aditee-singh-9a034319b/?originalSubdomain=in"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/aditee-singh"
+        }
+      ]
+    },
+    {
+      "profile": "naved.jpg",
+      "name": "Naved Akhtar",
+      "designation": "Operation Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/naved-akhtar-54b5ab146/"
+        }
+      ]
+    },
+
+    {
+      "profile": "mihir.jpg",
+      "name": "Mihir Sahai",
+      "designation": "HOC : Programming Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/mihir-sahai-964228191/"
+        },
+        {
+          "website": "github",
+          "url": " https://github.com/MihirSahai"
+        }
+      ]
+    },
+    {
+      "profile": "paarth.jpg",
+      "name": "Paarth Agarwal",
+      "designation": "HOC : Web Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/paarth17032000"
+        },
+        {
+          "website": "github",
+          "url": "github.com/paarth17032000"
+        }
+      ]
+    },
+    {
+      "profile": "shivam.jpg",
+      "name": "Shivam Singh",
+      "designation": "HOC : Technical Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/shivamsingh-07"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/shivamsingh-07"
+        }
+      ]
+    },
+    {
+      "profile": "shrey.jpg",
+      "name": "Shrey Jain",
+      "designation": "HOC : Design Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/shrey-jain-3587161a1/?originalSubdomain=in"
+        },
+        {
+          "website": "dribble",
+          "url": "https://dribbble.com/Ares435"
+        }
+      ]
+    }
+  ],
+
+  "third": [
+    {
+      "profile": "kalpit.png",
+      "name": "Kalpit Arya",
+      "designation": "Chief Executive Member",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/kalpit-arya/?originalSubdomain=in"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/desi-yoddha/"
+        }
+      ]
+    },
+    {
+      "profile": "ayush.jpg",
+      "name": "Ayush Kumar",
+      "designation": "Core Team Committee Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/ayush-kumar-10bb0b197/?originalSubdomain=in"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/2580ayush2580"
+        }
+      ]
+    },
+    {
+      "profile": "shruti.png",
+      "name": "Shruti Agarwal",
+      "designation": "General Secretary",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/shruti-ag/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Shruti3004"
+        }
+      ]
+    },
+    {
+      "profile": "anurag.png",
+      "name": "Anurag Srivastava",
+      "designation": "Finance Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/singingapple/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/SingingApple"
+        }
+      ]
+    },
+    {
+      "profile": "ojus.jpg",
+      "name": "Ojuswi Rastogi",
+      "designation": "Technical Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": " https://www.linkedin.com/in/ojuswizard/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/OjusWiZard"
+        },
+        {
+          "website": "twitter",
+          "url": "https://twitter.com/ojuswirastogi"
+        }
+      ]
+    },
+    {
+      "profile": "vaibhav.jpg",
+      "name": "Vaibhav Shukla",
+      "designation": "Creative Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/vaibhav-shukla-7a2a0b196"
+        },
+
+        {
+          "website": "behance",
+          "url": "https://www.behance.net/vaibhavshukla2"
+        }
+      ]
+    },
+    {
+      "profile": "aditee.jpg",
+      "name": "Aditee Singh",
+      "designation": "Event Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/aditee-singh-9a034319b/?originalSubdomain=in"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/aditee-singh"
+        }
+      ]
+    },
+    {
+      "profile": "naved.jpg",
+      "name": "Naved Akhtar",
+      "designation": "Operation Head",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/naved-akhtar-54b5ab146/"
+        }
+      ]
+    },
+
+    {
+      "profile": "mihir.jpg",
+      "name": "Mihir Sahai",
+      "designation": "HOC : Programming Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/mihir-sahai-964228191/"
+        },
+        {
+          "website": "github",
+          "url": " https://github.com/MihirSahai"
+        }
+      ]
+    },
+    {
+      "profile": "paarth.jpg",
+      "name": "Paarth Agarwal",
+      "designation": "HOC : Web Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/paarth17032000"
+        },
+        {
+          "website": "github",
+          "url": "github.com/paarth17032000"
+        }
+      ]
+    },
+    {
+      "profile": "shivam.jpg",
+      "name": "Shivam Singh",
+      "designation": "HOC : Technical Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/shivamsingh-07"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/shivamsingh-07"
+        }
+      ]
+    },
+    {
+      "profile": "shrey.jpg",
+      "name": "Shrey Jain",
+      "designation": "HOC : Design Club",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/shrey-jain-3587161a1/?originalSubdomain=in"
+        },
+        {
+          "website": "dribble",
+          "url": "https://dribbble.com/Ares435"
+        }
+      ]
+    }
+  ],
+  "second" : [
+    {
+      "profile": "aditi.jpeg",
+      "name": "Aditi Sahu",
+      "designation": "Developer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/aditi-sahu-3b4895216/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Aditi9800"
+        }
+      ]
+    },
+    {
+      "profile": "anadee.jpeg",
+      "name": "Anadee",
+      "designation": "Developer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/anadee11/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Anadee11"
+        },
+        {
+          "website": "twitter",
+          "url": "https://twitter.com/Anadee11_?s=08"
+        }
+      ]
+    },
+    {
+      "profile": "anant.jpg",
+      "name": "Anant Mishra",
+      "designation": "Developer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/anant-mishra-4220231bb/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Anant7393"
+        },
+        {
+          "website": "twitter",
+          "url": "https://twitter.com/AnantMi_"
+        }
+      ]
+    },
+    {
+      "profile": "dev.jpg",
+      "name": "Dev Batra",
+      "designation": "Programmer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/dev-batra-784415201/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Devv14"
+        }
+      ]
+    },
+    {
+      "profile": "hitesh.jpg",
+      "name": "Hiteshwaram Dubey",
+      "designation": "Programmer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/hiteshwarm-dubey-2240b3213/"
+        }
+      ]
+    },
+    {
+      "profile": "janvi.jpg",
+      "name": "Janvi Soni",
+      "designation": "Developer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/janvi-soni-787404170/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/janvi-soni"
+        }
+      ]
+    },
+    {
+      "profile": "jayanti.png",
+      "name": "Jayati Dixit",
+      "designation": "Programmer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/jayati-dixit-931a98203/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/Jayati15"
+        },
+        {
+          "website": "twitter",
+          "url": "https://twitter.com/Evren_1502"
+        }
+      ]
+    },
+    {
+      "profile": "om.jpeg",
+      "name": "Om Kumar",
+      "designation": "Designer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/om-kumar-707762201/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/om-1115"
+        }
+      ]
+    },
+    {
+      "profile": "parth.jpg",
+      "name": "Parth Agarwal",
+      "designation": "Designer",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/parth-agarwal-484075201/"
+        },
+        {
+          "website": "behance",
+          "url": "https://www.behance.net/chiron13parth"
+        }
+      ]
+    },
+    {
+      "profile": "pavitra.jpeg",
+      "name": "Pavitra Lalwani",
+      "designation": "Technical",
+      "links": [
+        {
+          "website": "linkedin",
+          "url": "https://www.linkedin.com/in/pavitra-lalwani-198637201/"
+        },
+        {
+          "website": "github",
+          "url": "https://github.com/pavitra-lalwani"
+        }
+      ]
+    }
+  ]
+}
